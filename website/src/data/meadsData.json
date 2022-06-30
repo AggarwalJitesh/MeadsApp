@@ -1,0 +1,407 @@
+[
+ {
+   "Varietal": "Apple Blossom",
+   "Flavor": "A hint of apple in the aroma",
+   "Color": "Light to medium amber"
+ },
+ {
+   "Varietal": "Aster",
+   "Flavor": "Flavor depends on region and species of aster; crystallizes quickly",
+   "Color": "White to light amber"
+ },
+ {
+   "Varietal": "Basswood",
+   "Flavor": "Strong, zesty (becomes minty when mixed with a mild honey)",
+   "Color": "Dark amber"
+ },
+ {
+   "Varietal": "Beechwood (Honeydew Honey)",
+   "Flavor": "Exotic. Aromatic, woody, malty, tangy",
+   "Color": "Dark amber"
+ },
+ {
+   "Varietal": "Blackberry",
+   "Flavor": "Delicate and sweet with a hint of fruit",
+   "Color": "Very light amber"
+ },
+ {
+   "Varietal": "Black Button Sage",
+   "Flavor": "Slightly herbaceous, slow to crystallize",
+   "Color": "Medium amber"
+ },
+ {
+   "Varietal": "Black Locust",
+   "Flavor": "Fruity, rare (the trees blossom only every few years)",
+   "Color": "Pale to dark amber"
+ },
+ {
+   "Varietal": "Black Mangrove",
+   "Flavor": "Thin bodied. Swampy aroma, with a mild, sweet, but brackish flavor.",
+   "Color": "Pale to dark amber"
+ },
+ {
+   "Varietal": "Blueberry",
+   "Flavor": "Fruity, blueberry aftertaste",
+   "Color": "Medium amber"
+ },
+ {
+   "Varietal": "Blue Curls",
+   "Flavor": "Minty, fruity flavor. Granulates quickly and smoothly",
+   "Color": "Extra light yellow-amber to milky white"
+ },
+ {
+   "Varietal": "Blue Gum (Eucalyptus)",
+   "Flavor": "Cool, minty undertones reminiscent of blue bubble gum.",
+   "Color": "Amber"
+ },
+ {
+   "Varietal": "Boneset",
+   "Flavor": "Rank in aroma, but a mellow, herbal, sagelike flavor. Think, heavy, molasseslike texture.",
+   "Color": "Very dark reddish amber"
+ },
+ {
+   "Varietal": "Borage",
+   "Flavor": "Herbal and floral bouquet with hints of cucumber and orange pekoe tea. Sugary aftertaste. Delicate and silky textures. Slow to crystallize",
+   "Color": "Medium to dark amber, with a gray tinge"
+ },
+ {
+   "Varietal": "t",
+   "Flavor": "Delicate, low acid, crystallizes easily",
+   "Color": "Light amber to white"
+ },
+ {
+   "Varietal": "Carob Seed",
+   "Flavor": "Bittersweet honey flavor woven with strains of caramel and subtle chocolate.",
+   "Color": "Dark autumn honey"
+ },
+ {
+   "Varietal": "Cat’s Claw",
+   "Flavor": "Rich aroma. Sweet, mild, and buttery flavor with a hint of iron. Heavy body. Granulates smoothly and with a waxy grain.",
+   "Color": "Water white to medium amber"
+ },
+ {
+   "Varietal": "Chamiso (Rabbit Brush)",
+   "Flavor": "Bittery overtones",
+   "Color": "Medium amber with reddish tinge"
+ },
+ {
+   "Varietal": "Chestnut",
+   "Flavor": "Strong, nutty, spicy, a bitter aftertaste (perfect with gorgonzola and parmesan)",
+   "Color": "Extremely dark amber, with a hue similar to chocolate. Sometimes reddish"
+ },
+ {
+   "Varietal": "Clover",
+   "Flavor": "Tangy and delicate; most labeled “clover” are actually blended; crystallizes easily",
+   "Color": "Water white to amber"
+ },
+ {
+   "Varietal": "Cranberry",
+   "Flavor": "Mild fruity flavor with tart aftertaste",
+   "Color": "Medium amber"
+ },
+ {
+   "Varietal": "Dandelion",
+   "Flavor": "Strong flavor with blended tangy notes",
+   "Color": "Dark Amber"
+ },
+ {
+   "Varietal": "Fireweed",
+   "Flavor": "Mild, smooth,delicate, buttery",
+   "Color": "Light to medium amber"
+ },
+ {
+   "Varietal": "Gallberry",
+   "Flavor": "Tart wildflower flavor",
+   "Color": "Dark amber"
+ },
+ {
+   "Varietal": "Goldenrod",
+   "Flavor": "Robust flavor of wildflower and beeswax",
+   "Color": "Light amber"
+ },
+ {
+   "Varietal": "Heather (Scotland)",
+   "Flavor": "Slightly bitter with an aftertaste of burnt caramel",
+   "Color": "Dark amber"
+ },
+ {
+   "Varietal": "Horsemint",
+   "Flavor": "Highly aromatic, spicy, and minty in flavor. Hints of lemon and oregano",
+   "Color": "Clear water white to amber"
+ },
+ {
+   "Varietal": "Huajillo",
+   "Flavor": "Extremely delicate and distinctive taste that is described as very light, smooth, and tangy.",
+   "Color": "Mild, light colored"
+ },
+ {
+   "Varietal": "Huckleberry",
+   "Flavor": "Full-bodied",
+   "Color": "Dark amber"
+ },
+ {
+   "Varietal": "Iron Bark (Eucalyptus)",
+   "Flavor": "Nutty aroma, soft mellow. Slight toffee flavor",
+   "Color": "Amber"
+ },
+ {
+   "Varietal": "Kamahi (New Zealand)",
+   "Flavor": "Full-bodied, complex",
+   "Color": "Light amber"
+ },
+ {
+   "Varietal": "Kiawe(Hawaii)",
+   "Flavor": "Rich tropical fruit and menthol flavors.",
+   "Color": "Pearly water white with waxy, golden overtones"
+ },
+ {
+   "Varietal": "Knapweed",
+   "Flavor": "Bitter, tangy, and astringent flavors",
+   "Color": "Light to medium amber"
+ },
+ {
+   "Varietal": "Knotweed",
+   "Flavor": "Rich, heavy and robust. A fruitier version of buckwheat honey without the malty flavors",
+   "Color": "Very dark amber with reddish tones"
+ },
+ {
+   "Varietal": "Kudzu",
+   "Flavor": "A rare honey with a strong flavor",
+   "Color": "Bluish to very dark purple"
+ },
+ {
+   "Varietal": "Jarrah (Eucalyptus Marginata)",
+   "Flavor": "Nutty, malt flavor",
+   "Color": "Dark Amber"
+ },
+ {
+   "Varietal": "Lavender",
+   "Flavor": "Lavender floral",
+   "Color": "Medium amber"
+ },
+ {
+   "Varietal": "Leatherwood(Tasmania)",
+   "Flavor": "Strong and spicy",
+   "Color": "Dark amber"
+ },
+ {
+   "Varietal": "Linden",
+   "Flavor": "Spicy with a woody scent",
+   "Color": "Pale amber"
+ },
+ {
+   "Varietal": "Lehua",
+   "Flavor": "Buttery with lily-like overtones",
+   "Color": "Crystallizes quickly and is made into a light golden cremed honey"
+ },
+ {
+   "Varietal": "Lemon",
+   "Flavor": "Strongly scented, citrusy, bright, tart, sour, aromatic.",
+   "Color": "Bright amber yellow"
+ },
+ {
+   "Varietal": "Purple Loosestrife",
+   "Flavor": "Rich, strong and unappealing",
+   "Color": "Extremely dark purple"
+ },
+ {
+   "Varietal": "Macadamia",
+   "Flavor": "Exotic, rich, not too sweet, nutty with tangy, musky floral undertones.",
+   "Color": "Medium amber to dark, deep amber"
+ },
+ {
+   "Varietal": "Manuka",
+   "Flavor": "Slight medicinal taste",
+   "Color": "Dark cream to tan or dark brown"
+ },
+ {
+   "Varietal": "Mesquite",
+   "Flavor": "Sweet, yet warm, smoky, woody, citrus flavors.",
+   "Color": "Medium amber with a brown tint"
+ },
+ {
+   "Varietal": "Milkweed",
+   "Flavor": "Very heavy in body, fruity, quincelike, slight spicy tang.",
+   "Color": "Water white with a light yellow tinge."
+ },
+ {
+   "Varietal": "Mint/Spearmint",
+   "Flavor": "N/A",
+   "Color": "N/A"
+ },
+ {
+   "Varietal": "Neem",
+   "Flavor": "Bitter, with dark toffee, gingerbread taste",
+   "Color": "Dark"
+ },
+ {
+   "Varietal": "Nodding Thistle (New Zealand)",
+   "Flavor": "Delicate floral",
+   "Color": "Light amber"
+ },
+ {
+   "Varietal": "Pine Honey (Turkey)",
+   "Flavor": "Molasses",
+   "Color": "Dark amber"
+ },
+ {
+   "Varietal": "Prickly Pear",
+   "Flavor": "Heavily bodied.",
+   "Color": "Medium to dark amber with bright red tint"
+ },
+ {
+   "Varietal": "Pohutukawa(New Zealand)",
+   "Flavor": "Distinct butterscotch flavor",
+   "Color": "Pale – the whitest honey in world"
+ },
+ {
+   "Varietal": "Poplar (Tulip Poplar)",
+   "Flavor": "Strong",
+   "Color": "Medium amber"
+ },
+ {
+   "Varietal": "Pumpkin blossom",
+   "Flavor": "Light with a hint of pumpkin flavor",
+   "Color": "Medium amber"
+ },
+ {
+   "Varietal": "Purple Sage",
+   "Flavor": "Mild flavor, slow to crystallize",
+   "Color": "Water white"
+ },
+ {
+   "Varietal": "Rainforest",
+   "Flavor": "Fresh, floral aroma. Taste varies depending on region",
+   "Color": "Light"
+ },
+ {
+   "Varietal": "Rata (New Zealand)",
+   "Flavor": "Mild, rich, almost salty",
+   "Color": "White"
+ },
+ {
+   "Varietal": "Raspberry",
+   "Flavor": "Will have a mild hint of raspberries; crystallizes as soon as it leaves the comb so is always sold in cremed form",
+   "Color": "Light amber"
+ },
+ {
+   "Varietal": "Red Gum (Eucalyptus)",
+   "Flavor": "Bold taste much like buckwheat",
+   "Color": "Dark"
+ },
+ {
+   "Varietal": "Rewarewa (New Zealand)",
+   "Flavor": "Rich, malty",
+   "Color": "Burnished amber"
+ },
+ {
+   "Varietal": "Rhododendron",
+   "Flavor": "Medium sweetness, light aroma, and subtle flavors",
+   "Color": "Light to medium amber"
+ },
+ {
+   "Varietal": "Rosemary",
+   "Flavor": "Fragrant and herbaceous; great with cheese",
+   "Color": "Pale amber"
+ },
+ {
+   "Varietal": "Safflower",
+   "Flavor": "Milky flavor",
+   "Color": "Amber to dark amber with a slight greenish cast"
+ },
+ {
+   "Varietal": "Sage",
+   "Flavor": "Herbal notes",
+   "Color": "Medium amber"
+ },
+ {
+   "Varietal": "Sainfoin",
+   "Flavor": "Sweet, fragrant, and floral with a spicy, delicate flavor.",
+   "Color": "Pale yellow"
+ },
+ {
+   "Varietal": "Saw Palmetto",
+   "Flavor": "Citrusy and herbal with woody overtones",
+   "Color": "Medium amber"
+ },
+ {
+   "Varietal": "Sidr",
+   "Flavor": "Applely, rich and buttery.",
+   "Color": "Very dark amber"
+ },
+ {
+   "Varietal": "Silkweed",
+   "Flavor": "Strong scent and flavor, spicy condiment honey",
+   "Color": "Dark amber"
+ },
+ {
+   "Varietal": "Snowberry",
+   "Flavor": "Butterscotch",
+   "Color": "N/A"
+ },
+ {
+   "Varietal": "Sourwood",
+   "Flavor": "Spicy ginger",
+   "Color": "Medium amber"
+ },
+ {
+   "Varietal": "Star Thistle",
+   "Flavor": "Wet grassy, musky, spicy, anise and cinnamon aroma",
+   "Color": "Extra light amber"
+ },
+ {
+   "Varietal": "Sunflower",
+   "Flavor": "Distinctive floral aroma, heraceous with citrus notes; crystallizes easily",
+   "Color": "Light to medium amber"
+ },
+ {
+   "Varietal": "Tahonal",
+   "Flavor": "Deep and tropical",
+   "Color": "Extra light amber to dark amber"
+ },
+ {
+   "Varietal": "Tamarisk (Salt Cedar)",
+   "Flavor": "Heavy body, with flavors of molasses and chocolate",
+   "Color": "Dark amber"
+ },
+ {
+   "Varietal": "Tawari",
+   "Flavor": "Creamy Butterscotch",
+   "Color": "Light amber"
+ },
+ {
+   "Varietal": "Thyme",
+   "Flavor": "Herbal notes",
+   "Color": "Burnt grass"
+ },
+ {
+   "Varietal": "Tulip Poplar",
+   "Flavor": "Rich, pleasant, sweet, flowery and smoky.",
+   "Color": "Dark amber"
+ },
+ {
+   "Varietal": "Tupelo",
+   "Flavor": "Medium, complex, very sweet; slow to crystallize",
+   "Color": "Golden amber with a slight greenish cast"
+ },
+ {
+   "Varietal": "Ulmo (Chile)",
+   "Flavor": "Anise and violet",
+   "Color": "N/A"
+ },
+ {
+   "Varietal": "Viper’s Bugloss (Borage) (New Zealand)",
+   "Flavor": "Delicate flavor, floral bouquet",
+   "Color": "Light amber"
+ },
+ {
+   "Varietal": "Wenchi (Ethiopia)",
+   "Flavor": "Intense flavor with a floral fragrance with notes of caramel and balsamic",
+   "Color": "Yellow-amber with a reddish tinge"
+ },
+ {
+   "Varietal": "White Sage",
+   "Flavor": "Clover-like flavor, elegant floral aftertaste",
+   "Color": "Translucent yellow"
+ }
+]

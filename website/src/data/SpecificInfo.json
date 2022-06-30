@@ -1,0 +1,355 @@
+[
+ {
+   "Country": "India",
+   "Must_Preparation": "C6H12O6, yeast extract, peptone, MgSO4, ZnSO4and KH2PO4",
+   "Fermentation_Length": "˃90",
+   "Yeast": "S. cerevisiae",
+   "minTemp": "18",
+   "maxTemp": "30"
+
+ },
+ {
+   "Country": "Portugal",
+   "Must_Preparation": "(NH4)2HPO4",
+   "Fermentation_Length": "5",
+   "Yeast": "S. cerevisiae(QA23 and ICV D47)",
+   "minTemp": "25",
+   "maxTemp": ""
+ },
+ {
+   "Country": "Portugal",
+   "Must_Preparation": "Supplement 1: commercial nutrients (Enovit®)and C4H6O6. Supplement 2: NH4H2PO4; KNaC4H4O6·4H2O; MgSO4·7H2O, CaSO4, SO2, C4H6O6 and bentonite sodium.",
+   "Fermentation_Length": "8–13",
+   "Yeast": "S. cerevisiae",
+   "minTemp": "27",
+   "maxTemp": ""
+ },
+ {
+   "Country": "Portugal",
+   "Must_Preparation": "K2C4H4O6, malic acid and (NH4)2HPO4",
+   "Fermentation_Length": "11–14",
+   "Yeast": "S. cerevisiaeUCD522",
+   "minTemp": "25",
+   "maxTemp": ""
+ },
+ {
+   "Country": "Portugal",
+   "Must_Preparation": "Commercial nutrients and SO2",
+   "Fermentation_Length": "15",
+   "Yeast": "S. cerevisiaeph.r. bayanusPB2002",
+   "minTemp": "20",
+   "maxTemp": "30"
+ },
+ {
+   "Country": "Slovenia",
+   "Must_Preparation": "(NH4)2SO4 , KH2PO4 , MgCl2, C6H8O7, NaH2C6H5O7 , Vit. B7, Vit. B6, myo-inositol, Vit. B5, Vit. B1and peptone",
+   "Fermentation_Length": "",
+   "Yeast": "S. bayanusstrain R2 (Lalvin)",
+   "minTemp": "15",
+   "maxTemp": ""
+ },
+ {
+   "Country": "Slovak",
+   "Must_Preparation": "Vitamon Ultra salt®",
+   "Fermentation_Length": "",
+   "Yeast": "S. cerevisiaeC11-3",
+   "minTemp": "25",
+   "maxTemp": "30"
+ },
+ {
+   "Country": "Poland",
+   "Must_Preparation": "(NH4)2HPO4 and C6H8O7",
+   "Fermentation_Length": "25–30",
+   "Yeast": "S. cerevisiae, Johannisberg-Riesling (JR)",
+   "minTemp": "20",
+   "maxTemp": "22"
+ },
+ {
+   "Country": "USA",
+   "Must_Preparation": "A honey analog (38% fructose, 30% glucose, 10% maltose, and 2% sucrose) diluted with H2O and ethanol",
+   "Fermentation_Length": "28–42",
+   "Yeast": "(S. cerevisiae) (LD Carlson)",
+   "minTemp": "22",
+   "maxTemp": ""
+ },
+ {
+   "Country": "Portugal",
+   "Must_Preparation": "K2C4H4O6, malic acid and (NH4)2HPO4",
+   "Fermentation_Length": "",
+   "Yeast": "S. cerevisiaeLalvin QA23 and S. cerevisiaeLalvin ICV D47",
+   "minTemp": "22",
+   "maxTemp": ""
+ },
+ {
+   "Country": "Nigeria",
+   "Must_Preparation": "H2SO3 and SO2",
+   "Fermentation_Length": "21",
+   "Yeast": "Packaged dried bakers’ yeast",
+   "minTemp": "25",
+   "maxTemp": "26"
+ },
+ {
+   "Country": "Slovak",
+   "Must_Preparation": "Not additives",
+   "Fermentation_Length": "60–90",
+   "Yeast": "Saccharomyces",
+   "minTemp": "15",
+   "maxTemp": "22"
+ },
+ {
+   "Country": "Spain",
+   "Must_Preparation": "K2S2O5 and pollen",
+   "Fermentation_Length": "",
+   "Yeast": "S. cerevisiae, ENSIS-LE5®",
+   "minTemp": "25",
+   "maxTemp": ""
+ },
+ {
+  "Country": "Senegal",
+  "Must_Preparation": "Commercial nutirients and SO2",
+  "Fermentation_Length": "6-7 days",
+  "Yeast": "S. cerevisiae (QA23)",
+  "minTemp": "25",
+   "maxTemp": "30"
+},
+{
+  "Country": "Congo",
+  "Must_Preparation": "(NH4)2HPO4",
+  "Fermentation_Length": "20-25 days",
+  "Yeast": "S. cerevisiae",
+  "minTemp": "30",
+   "maxTemp": "35"
+},
+{
+  "Country": "Mauritius",
+  "Must_Preparation": "K2C4H4O6, malic acid and (NH4)2HPO4",
+  "Fermentation_Length": "5 days",
+  "Yeast": "S. cerevisiae",
+  "minTemp": "20",
+   "maxTemp": "25"
+},
+{
+  "Country": "Zimbabwe",
+  "Must_Preparation": "C6H12O6, yeast extract, peptone, MgSO4, ZnSO4 and KH2PO4",
+  "Fermentation_Length": "16-17 days",
+  "Yeast": "S. cerevisiae (QA23 and ICVD47)",
+  "minTemp": "27",
+   "maxTemp": ""
+},
+{
+  "Country": "Ghana ",
+  "Must_Preparation": "Vitamon Ultra Salt",
+  "Fermentation_Length": "15-17 days",
+  "Yeast": "S. cerevisiae (UCD522)",
+  "minTemp": "25",
+   "maxTemp": ""
+},
+{
+  "Country": "Thailand",
+  "Must_Preparation": "K2C4H4O6, malic acid and (NH4)2HPO4",
+  "Fermentation_Length": "10-13 days",
+  "Yeast": "S. cerevisiae",
+  "minTemp": "20",
+   "maxTemp": ""
+},
+{
+  "Country": "Singapore",
+  "Must_Preparation": "Commercial nutirients and SO2",
+  "Fermentation_Length": "20-22 days",
+  "Yeast": "S. cerevisiae (PB2002)",
+  "minTemp": "15",
+   "maxTemp": "20"
+},
+{
+  "Country": "Mali",
+  "Must_Preparation": "C6H12O6, yeast extract, peptone, MgSO4, ZnSO4 and KH2PO4",
+  "Fermentation_Length": "20-22 days",
+  "Yeast": "S. cerevisiae (strain R2)",
+  "minTemp": "25",
+   "maxTemp": "30"
+},
+{
+  "Country": "Chad",
+  "Must_Preparation": "K2C4H4O6, malic acid and (NH4)2HPO4",
+  "Fermentation_Length": "15-17 days",
+  "Yeast": "S. cerevisiae",
+  "minTemp": "30",
+   "maxTemp": "35"
+},
+{
+  "Country": "Oman",
+  "Must_Preparation": "Vitamon Ultra Salt",
+  "Fermentation_Length": "5 days",
+  "Yeast": "S. cerevisiae (QA23)",
+  "minTemp": "30",
+   "maxTemp": ""
+},
+{
+  "Country": "Qatar",
+  "Must_Preparation": "Commercial nutirients and SO2",
+  "Fermentation_Length": "16-17 days",
+  "Yeast": "S. cerevisiae",
+  "minTemp": "32",
+   "maxTemp": ""
+},
+{
+  "Country": "Indonesia",
+  "Must_Preparation": "C6H12O6, yeast extract, peptone, MgSO4, ZnSO4 and KH2PO4",
+  "Fermentation_Length": "6-7 days",
+  "Yeast": "S. cerevisiae (C11-3)",
+  "minTemp": "20",
+   "maxTemp": "22"
+},
+{
+  "Country": "Iraq",
+  "Must_Preparation": "(NH4)2HPO4",
+  "Fermentation_Length": "20-25 days",
+  "Yeast": "S. cerevisiae",
+  "minTemp": "20",
+   "maxTemp": "25"
+},
+{
+  "Country": "UAE",
+  "Must_Preparation": "Commercial nutirients and SO2",
+  "Fermentation_Length": "5-8 days",
+  "Yeast": "S. cerevisiae (QA23 and ICVD47)",
+  "minTemp": "25",
+   "maxTemp": ""
+},
+{
+  "Country": "Cambodia",
+  "Must_Preparation": "K2C4H4O6, malic acid and (NH4)2HPO4",
+  "Fermentation_Length": "10-12 days",
+  "Yeast": "S. cerevisiae",
+  "minTemp": "20",
+   "maxTemp": "22"
+},
+{
+  "Country": "Benin",
+  "Must_Preparation": "C6H12O6, yeast extract, peptone, MgSO4, ZnSO4 and KH2PO4",
+  "Fermentation_Length": "15-17 days",
+  "Yeast": "S. cerevisiae (ICVD47)",
+  "minTemp": "17",
+   "maxTemp": ""
+},
+{
+  "Country": "Brazil",
+  "Must_Preparation": "Vitamon Ultra Salt",
+  "Fermentation_Length": "20-22 days",
+  "Yeast": "S. cerevisiae",
+  "minTemp": "15",
+   "maxTemp": ""
+},
+{
+  "Country": "Maldives",
+  "Must_Preparation": "Commercial nutirients and SO2",
+  "Fermentation_Length": "16-17 days",
+  "Yeast": "S. cerevisiae (C11-3)",
+  "minTemp": "25",
+   "maxTemp": ""
+},
+{
+  "Country": "Kuwait",
+  "Must_Preparation": "(NH4)2HPO4",
+  "Fermentation_Length": "6-7 days",
+  "Yeast": "S. cerevisiae (strain R2)",
+  "minTemp": "15",
+   "maxTemp": ""
+},
+{
+  "Country": "Sudan",
+  "Must_Preparation": "C6H12O6, yeast extract, peptone, MgSO4, ZnSO4 and KH2PO4",
+  "Fermentation_Length": "20-25 days",
+  "Yeast": "S. cerevisiae (QA23)",
+  "minTemp": "20",
+   "maxTemp": "25"
+},
+{
+  "Country": "Afghanistan",
+  "Must_Preparation": "K2C4H4O6, malic acid and (NH4)2HPO4",
+  "Fermentation_Length": "15-17 days",
+  "Yeast": "S. cerevisiae",
+  "minTemp": "25",
+   "maxTemp": "27"
+},
+{
+  "Country": "Bangladesh",
+  "Must_Preparation": "Commercial nutirients and SO2",
+  "Fermentation_Length": "5 days",
+  "Yeast": "S. cerevisiae (PB2002)",
+  "minTemp": "30",
+   "maxTemp": "35"
+},
+{
+  "Country": "Burkina Faso",
+  "Must_Preparation": "(NH4)2HPO4",
+  "Fermentation_Length": "16-17 days",
+  "Yeast": "S. cerevisiae (strain R2)",
+  "minTemp": "30",
+   "maxTemp": ""
+},
+{
+  "Country": "China",
+  "Must_Preparation": "C6H12O6, yeast extract, peptone, MgSO4, ZnSO4 and KH2PO4",
+  "Fermentation_Length": "6-7 days",
+  "Yeast": "S. cerevisiae",
+  "minTemp": "32",
+   "maxTemp": ""
+},
+{
+  "Country": "Egypt ",
+  "Must_Preparation": "Vitamon Ultra Salt",
+  "Fermentation_Length": "20-25 days",
+  "Yeast": "S. cerevisiae (QA23)",
+  "minTemp": "20",
+   "maxTemp": "22"
+},
+{
+  "Country": "Finland",
+  "Must_Preparation": "(NH4)2HPO4",
+  "Fermentation_Length": "5-8 days",
+  "Yeast": "S. cerevisiae",
+  "minTemp": "20",
+   "maxTemp": "25"
+},
+{
+  "Country": "Isreal",
+  "Must_Preparation": "C6H12O6, yeast extract, peptone, MgSO4, ZnSO4 and KH2PO4",
+  "Fermentation_Length": "10-12 days",
+  "Yeast": "S. cerevisiae (C11-3)",
+  "minTemp": "25",
+   "maxTemp": ""
+},
+{
+  "Country": "Kenya",
+  "Must_Preparation": "K2C4H4O6, malic acid and (NH4)2HPO4",
+  "Fermentation_Length": "15-17 days",
+  "Yeast": "S. cerevisiae",
+  "minTemp": "20",
+   "maxTemp": "22"
+},
+{
+  "Country": "Libya",
+  "Must_Preparation": "Commercial nutirients and SO2",
+  "Fermentation_Length": "20-22 days",
+  "Yeast": "S. cerevisiae (QA23 and ICVD47)",
+  "minTemp": "17",
+   "maxTemp": ""
+},
+{
+  "Country": "Mexico",
+  "Must_Preparation": "Vitamon Ultra Salt",
+  "Fermentation_Length": "16-17 days",
+  "Yeast": "S. cerevisiae",
+  "minTemp": "15",
+   "maxTemp": ""
+},
+{
+  "Country": "Nepal",
+  "Must_Preparation": "K2C4H4O6, malic acid and (NH4)2HPO4",
+  "Fermentation_Length": "6-7 days",
+  "Yeast": "S. cerevisiae (C11-3)",
+  "minTemp": "25",
+   "maxTemp": ""
+}
+]
